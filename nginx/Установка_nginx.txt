@@ -1,0 +1,5 @@
+Установка nginx
+http://www.unixmen.com/install-lemp-server-nginx-mysql-mariadb-php-phpmyadmin-ubuntu-14-1014-0413-10/
+
+Виртуальные хосты
+http://devacademy.ru/posts/nginx-ubuntu-1404/
